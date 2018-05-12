@@ -1,0 +1,68 @@
+_repo: The-Folk-Tales-of-the-MagyarsCollected-by-Kriza-Erd-lyi-Pap-and-Others_42981
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Kriza, János
+    alias: Kriza, Janos
+    birthdate: 1811
+    deathdate: 1875
+    gutenberg_agent_id: '41478'
+    url: http://www.gutenberg.org/2009/agents/41478
+  - agent_name: Pap, Gyula
+    birthdate: 1843
+    deathdate: 1931
+    gutenberg_agent_id: '40804'
+    url: http://www.gutenberg.org/2009/agents/40804
+  - agent_name: Erdélyi, János
+    alias: Erdelyi, Janos
+    birthdate: 1814
+    deathdate: 1868
+    gutenberg_agent_id: '39570'
+    url: http://www.gutenberg.org/2009/agents/39570
+    wikipedia: http://hu.wikipedia.org/wiki/Erd%C3%A9lyi_J%C3%A1nos_%28k%C3%B6lt%C5%91%29
+covers:
+- cover_type: archival
+  image_path: 42981-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Kropf, Lajos
+    alias: Kropf, Lewis L.
+    birthdate: 1852
+    gutenberg_agent_id: '41972'
+    url: http://www.gutenberg.org/2009/agents/41972
+  - agent_name: Jones, W. Henry
+    gutenberg_agent_id: '41971'
+    url: http://www.gutenberg.org/2009/agents/41971
+description: ''
+gutenberg_issued: '2013-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- Hungary'
+- !lcsh 'Folklore -- Hungary'
+tableOfContents: Prince Csihan -- Stephen the murderer -- The lamb with the golden
+  fleece -- Fisher Joe -- Luck and bliss -- The lazy cat -- Handsome Paul -- The travels
+  of truth and falsehood -- The hunting princes -- The lazy spinning girl -- The envious
+  sisters -- Knight Rose -- Prince Mirkó -- The student who was forcibly made king
+  -- The children of the two rich men -- The hussar and the servant girl -- My father's
+  wedding -- The baa-lambs -- Fairy Elizabeth -- The three princes -- The three dreams
+  -- Csabor Ur -- The devil and the three Slovák lads -- The count's daughter -- The
+  speaking grapes -- The three oranges -- The youngest prince -- The invisible shepherd
+  lad -- The three princesses -- Cinder Jack -- The three brothers -- The three valuable
+  things -- The little magic pony -- The beggars' present -- The world's beautiful
+  woman -- The girl without hands -- The king and the devil -- The three princes,
+  the three dragons,and the old woman with the iron nose -- The widower and his daughter
+  -- The wishes -- The two orphans -- The wonderful frog -- The devil and the red
+  cap -- Jack Dreadnought -- The secret-keeping little boy and his little sword --
+  Shepherd Paul -- The pelican -- The girl with the golden hair -- The lover's ghost
+  -- Snake skin -- The fairies' well -- The crow's nest -- Woman's curiosity.
+title: 'The Folk-Tales of the Magyars
+
+  Collected by Kriza, Erdélyi, Pap, and Others'
+url: http://www.gutenberg.org/ebooks/42981
