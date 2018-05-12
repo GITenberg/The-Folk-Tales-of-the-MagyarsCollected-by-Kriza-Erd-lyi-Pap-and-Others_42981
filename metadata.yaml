@@ -34,6 +34,8 @@ creator:
     gutenberg_agent_id: '41971'
     url: http://www.gutenberg.org/2009/agents/41971
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42981#The-Folk-Tales-of-the-MagyarsCollected-by-Kriza-Erd-lyi-Pap-and-Others
 gutenberg_issued: '2013-06-18'
 gutenberg_type: Text
 identifiers:
